@@ -1,0 +1,13 @@
+{
+  "group": "oak_city_mod",
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "oak_city_mod:reinforcediron"
+    }
+  ],
+  "result": {
+    "item": "oak_city_mod:reironnugget",
+    "count": 9
+  }
+}

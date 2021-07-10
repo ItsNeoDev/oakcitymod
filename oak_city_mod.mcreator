@@ -1,0 +1,492 @@
+{
+  "id_map": {},
+  "mod_elements": [
+    {
+      "name": "OakCity",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_city"
+    },
+    {
+      "name": "WoodenBullets",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "wooden_bullets"
+    },
+    {
+      "name": "OakPistol",
+      "type": "gun",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_pistol"
+    },
+    {
+      "name": "Woodenpiece",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodenpiece"
+    },
+    {
+      "name": "Woodpiece",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodpiece"
+    },
+    {
+      "name": "Woodenbulletscraft",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "woodenbulletscraft"
+    },
+    {
+      "name": "Oakpistolcraft",
+      "type": "recipe",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oakpistolcraft"
+    },
+    {
+      "name": "Ironbullet",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "ironbullet"
+    },
+    {
+      "name": "Bulletcraft",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bulletcraft"
+    },
+    {
+      "name": "Bullet",
+      "type": "item",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "bullet"
+    },
+    {
+      "name": "Oakrifle",
+      "type": "gun",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oakrifle"
+    },
+    {
+      "name": "Oakriflecraft",
+      "type": "recipe",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oakriflecraft"
+    },
+    {
+      "name": "AssaultRifle",
+      "type": "gun",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assault_rifle"
+    },
+    {
+      "name": "Blood",
+      "type": "particle",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "blood"
+    },
+    {
+      "name": "AssaultRifleBulletHitsLivingEntity",
+      "type": "procedure",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assault_rifle_bullet_hits_living_entity",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Sniper",
+      "type": "gun",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sniper"
+    },
+    {
+      "name": "Reinforcediron",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforcediron"
+    },
+    {
+      "name": "UraniumIngot",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ingot"
+    },
+    {
+      "name": "UraniumOre",
+      "type": "block",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore"
+    },
+    {
+      "name": "UraniumBlock",
+      "type": "block",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_block"
+    },
+    {
+      "name": "UraniumOreBlockRecipe",
+      "type": "recipe",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_block_recipe"
+    },
+    {
+      "name": "UraniumBlockOreRecipe",
+      "type": "recipe",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_block_ore_recipe"
+    },
+    {
+      "name": "UraniumOreSmelting",
+      "type": "recipe",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "uranium_ore_smelting"
+    },
+    {
+      "name": "Reinforcedironcraft",
+      "type": "recipe",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforcedironcraft"
+    },
+    {
+      "name": "Assaultriflecraft",
+      "type": "recipe",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "assaultriflecraft"
+    },
+    {
+      "name": "Reironnugget",
+      "type": "item",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reironnugget"
+    },
+    {
+      "name": "Reinforcedironnugget",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforcedironnugget"
+    },
+    {
+      "name": "Snipercraft",
+      "type": "recipe",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snipercraft"
+    },
+    {
+      "name": "Sniperprocedure",
+      "type": "procedure",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "sniperprocedure",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          },
+          {
+            "name": "itemstack",
+            "type": "itemstack"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reinforcedbullets",
+      "type": "item",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforcedbullets"
+    },
+    {
+      "name": "ReinforcedbulletsItemIsDroppedByPlayer",
+      "type": "procedure",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforcedbullets_item_is_dropped_by_player",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "Reinforcedbulletscraft",
+      "type": "recipe",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "reinforcedbulletscraft"
+    },
+    {
+      "name": "OakCoins",
+      "type": "item",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "oak_coins"
+    },
+    {
+      "name": "BirchCoin",
+      "type": "item",
+      "sortid": 29,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "birch_coin"
+    },
+    {
+      "name": "SpruceCoin",
+      "type": "item",
+      "sortid": 30,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "spruce_coin"
+    },
+    {
+      "name": "JungleCoin",
+      "type": "item",
+      "sortid": 31,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "jungle_coin"
+    },
+    {
+      "name": "AcasiaCoin",
+      "type": "item",
+      "sortid": 32,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "acasia_coin"
+    },
+    {
+      "name": "Snipescope",
+      "type": "procedure",
+      "sortid": 33,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {},
+      "registry_name": "snipescope",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "gun_shot",
+      "files": [
+        "1911-.45-acp-close-single-gunshot-a-www.fesliyanstudios.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "rifle_shot",
+      "files": [
+        "308-bolt-action-rifle-single-far-gunshot-a-www.fesliyanstudios.com"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "assault_rifle",
+      "files": [
+        "ar15"
+      ],
+      "category": "master",
+      "subtitle": ""
+    },
+    {
+      "name": "sniper",
+      "files": [
+        "sniper-sound"
+      ],
+      "category": "master",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.oak_city_mod.ironbullet": "Bullet",
+      "item.oak_city_mod.bullet": "Bullet",
+      "block.oak_city_mod.uranium_ore": "Uranium Ore",
+      "item.oak_city_mod.spruce_coin": "Spruce Coin",
+      "item.oak_city_mod.sniper": "Sniper Rifle",
+      "item.oak_city_mod.assault_rifle": "Assault Rifle",
+      "item.oak_city_mod.oak_coins": "Oak Coin",
+      "item.oak_city_mod.woodenpiece": "Wood Scrap",
+      "item.oak_city_mod.jungle_coin": "Jungle Coin",
+      "itemGroup.taboak_city": "Oak City",
+      "block.oak_city_mod.uranium_block": "Block of Uranium",
+      "item.oak_city_mod.acasia_coin": "Acasia Coin",
+      "item.oak_city_mod.wooden_bullets": "Wooden Bullet",
+      "item.oak_city_mod.birch_coin": "Birch Coin",
+      "item.oak_city_mod.reinforcediron": "Reinforced Iron",
+      "subtitles.assault_rifle": "",
+      "item.oak_city_mod.oak_pistol": "Oak Pistol",
+      "item.oak_city_mod.uranium_ingot": "Uranium",
+      "item.oak_city_mod.reinforcedbullets": "Reinforced Bullets",
+      "item.oak_city_mod.oakrifle": "Oakrifle",
+      "subtitles.rifle_shot": "",
+      "subtitles.sniper": "",
+      "item.oak_city_mod.reironnugget": "Reinforced Iron Nugget",
+      "subtitles.gun_shot": ""
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "oak_city_mod",
+    "modName": "Oak City Mod",
+    "version": "1.0.0",
+    "author": "meage, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.16.5",
+    "modElementsPackage": "net.mcreator.oakcitymod",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202100118117
+}

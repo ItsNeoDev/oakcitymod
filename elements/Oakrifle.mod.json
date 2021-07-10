@@ -1,0 +1,40 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "oak_rifle",
+    "customModelName": "Normal",
+    "name": "Oakrifle",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:OakCity"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Ironbullet"
+    },
+    "shootConstantly": false,
+    "usageCount": 300,
+    "actionSound": {
+      "value": "CUSTOM:rifle_shot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 2.0,
+    "bulletDamage": 7.199999999999999,
+    "bulletKnockback": 6,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Bullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "AssaultRifleBulletHitsLivingEntity"
+    }
+  }
+}

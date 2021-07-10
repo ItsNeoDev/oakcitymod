@@ -1,0 +1,38 @@
+{
+  "gun_shot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "oak_city_mod:1911-.45-acp-close-single-gunshot-a-www.fesliyanstudios.com",
+        "stream": false
+      }
+    ]
+  },
+  "rifle_shot": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "oak_city_mod:308-bolt-action-rifle-single-far-gunshot-a-www.fesliyanstudios.com",
+        "stream": false
+      }
+    ]
+  },
+  "assault_rifle": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "oak_city_mod:ar15",
+        "stream": false
+      }
+    ]
+  },
+  "sniper": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "oak_city_mod:sniper-sound",
+        "stream": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "group": "oak_city_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "1": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "2": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "3": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "6": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "7": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "8": {
+      "item": "oak_city_mod:woodenpiece"
+    }
+  },
+  "result": {
+    "item": "oak_city_mod:wooden_bullets",
+    "count": 2
+  }
+}

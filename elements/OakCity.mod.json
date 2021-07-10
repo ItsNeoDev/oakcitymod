@@ -1,0 +1,11 @@
+{
+  "_fv": 18,
+  "_type": "tab",
+  "definition": {
+    "name": "Oak City",
+    "icon": {
+      "value": "Blocks.OAK_WOOD"
+    },
+    "showSearch": false
+  }
+}

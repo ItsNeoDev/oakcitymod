@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "oak_city_mod:blocks/uranium_ore_block",
+    "particle": "oak_city_mod:blocks/uranium_ore_block"
+  }
+}

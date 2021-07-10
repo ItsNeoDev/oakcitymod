@@ -1,0 +1,42 @@
+{
+  "group": "oak_city_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:iron_nugget"
+    },
+    "1": {
+      "item": "minecraft:iron_ingot"
+    },
+    "2": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "3": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "5": {
+      "item": "minecraft:iron_ingot"
+    },
+    "6": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "7": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "8": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "oak_city_mod:oakrifle",
+    "count": 1
+  }
+}

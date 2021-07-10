@@ -1,0 +1,46 @@
+{
+  "_fv": 18,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 2,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:Woodenpiece"
+      },
+      {
+        "value": "CUSTOM:Woodenpiece"
+      },
+      {
+        "value": "CUSTOM:Woodenpiece"
+      },
+      {
+        "value": "CUSTOM:Woodenpiece"
+      },
+      {
+        "value": "Items.GUNPOWDER"
+      },
+      {
+        "value": "CUSTOM:Woodenpiece"
+      },
+      {
+        "value": "CUSTOM:Woodenpiece"
+      },
+      {
+        "value": "CUSTOM:Woodenpiece"
+      },
+      {
+        "value": "CUSTOM:Woodenpiece"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:WoodenBullets"
+    },
+    "name": "woodenbulletscraft",
+    "namespace": "mod"
+  }
+}

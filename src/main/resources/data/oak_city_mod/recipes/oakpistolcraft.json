@@ -1,0 +1,33 @@
+{
+  "group": "oak_city_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 45",
+    "  8"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:oak_log"
+    },
+    "1": {
+      "item": "minecraft:gunpowder"
+    },
+    "2": {
+      "item": "minecraft:oak_log"
+    },
+    "4": {
+      "item": "oak_city_mod:woodenpiece"
+    },
+    "5": {
+      "item": "minecraft:oak_log"
+    },
+    "8": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "item": "oak_city_mod:oak_pistol",
+    "count": 1
+  }
+}

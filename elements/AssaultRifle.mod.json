@@ -1,0 +1,40 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "assault_rifle",
+    "customModelName": "Normal",
+    "name": "Assault Rifle",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:OakCity"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:Ironbullet"
+    },
+    "shootConstantly": true,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "CUSTOM:assault_rifle"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.8,
+    "bulletDamage": 7.0,
+    "bulletKnockback": 5,
+    "bulletParticles": false,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:Bullet"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "AssaultRifleBulletHitsLivingEntity"
+    }
+  }
+}

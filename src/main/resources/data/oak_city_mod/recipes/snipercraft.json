@@ -1,0 +1,36 @@
+{
+  "group": "oak_city_mod",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "oak_city_mod:reironnugget"
+    },
+    "2": {
+      "item": "minecraft:glass"
+    },
+    "3": {
+      "item": "oak_city_mod:reinforcediron"
+    },
+    "4": {
+      "item": "minecraft:gunpowder"
+    },
+    "6": {
+      "item": "oak_city_mod:reinforcediron"
+    },
+    "7": {
+      "item": "oak_city_mod:reinforcediron"
+    },
+    "8": {
+      "item": "minecraft:netherite_ingot"
+    }
+  },
+  "result": {
+    "item": "oak_city_mod:sniper",
+    "count": 1
+  }
+}

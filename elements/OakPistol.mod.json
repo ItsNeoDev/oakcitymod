@@ -1,0 +1,40 @@
+{
+  "_fv": 18,
+  "_type": "gun",
+  "definition": {
+    "renderType": 0,
+    "texture": "oak_pistol",
+    "customModelName": "Normal",
+    "name": "Oak Pistol",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:OakCity"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": "CUSTOM:WoodenBullets"
+    },
+    "shootConstantly": false,
+    "usageCount": 100,
+    "actionSound": {
+      "value": "CUSTOM:gun_shot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.1,
+    "bulletPower": 1.4,
+    "bulletDamage": 6.5,
+    "bulletKnockback": 6,
+    "bulletParticles": true,
+    "bulletIgnitesFire": false,
+    "bulletItemTexture": {
+      "value": "CUSTOM:WoodenBullets"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "AssaultRifleBulletHitsLivingEntity"
+    }
+  }
+}

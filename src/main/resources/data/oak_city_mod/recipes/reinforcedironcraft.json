@@ -1,0 +1,12 @@
+{
+  "group": "oak_city_mod",
+  "type": "minecraft:blasting",
+  "experience": 1,
+  "cookingtime": 100,
+  "ingredient": {
+    "item": "minecraft:iron_ingot"
+  },
+  "result": {
+    "item": "oak_city_mod:reinforcediron"
+  }
+}
